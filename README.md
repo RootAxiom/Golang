@@ -1,4 +1,4 @@
-# Go Learning 🐹
+# ![Go Logo](https://go.dev/images/go-logo-white.svg)
 
 Learning Go. Writing code. Breaking things. Fixing them. Repeating.
 
@@ -27,7 +27,7 @@ Just hands-on learning.
 
 ---
 
-## How to run
+## How to Run
 
 ```bash
 git clone https://github.com/RootAxiom/Golang.git
