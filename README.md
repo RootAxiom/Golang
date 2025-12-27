@@ -4,7 +4,7 @@ Learning Go. Writing code. Breaking things. Fixing them. Repeating.
 
 ---
 
-## What this is
+## What this is?
 
 A personal playground for learning **Golang** through small programs, experiments, and mini projects.
 
